@@ -10,7 +10,7 @@
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
     <application
-        android:label="vpn"
+        android:label="VPN"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
